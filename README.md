@@ -1,2 +1,4 @@
 # hello-world
-Initial repository
+Initial repository.
+
+This is training in using GitHub. 
